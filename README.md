@@ -47,7 +47,7 @@
 
 ## [Mac翻墙软件教程](https://github.com/haoly/fanqiang/tree/master/macos)
 
-  * [苹果电脑MAC翻墙](https://github.com/haoly/fanqiang/wiki/%E8%8B%B9%E6%9E%9C%E7%94%B5%E8%84%91MAC%E7%BF%BB%E5%A2%99)
+  * [苹果电脑MAC翻墙](https://github.com/bannedbook/fanqiang/wiki/%E8%8B%B9%E6%9E%9C%E7%94%B5%E8%84%91MAC%E7%BF%BB%E5%A2%99)
   * [macOS翻墙之ClashX翻墙教程](https://github.com/haoly/fanqiang/tree/master/macos/ClashX.md)
   * [macOS翻墙之V2rayU教程](https://github.com/haoly/fanqiang/tree/master/macos/V2RayU.md)
   * [macOS翻墙之Surge教程](https://github.com/haoly/fanqiang/tree/master/macos/Surge.md)
